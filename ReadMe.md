@@ -40,6 +40,13 @@ ULONG DisasmCode(PUCHAR Src,ULONG SrcSize,PDisasm pDisasm)
 
 
  
- 
+ -
+
+
+OllyDbg 原版 disasm[下载地址](http://www.ollydbg.de/disasm.zip)
+
+
+
+
  
  
